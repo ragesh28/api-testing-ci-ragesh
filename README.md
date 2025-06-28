@@ -16,3 +16,12 @@ This project demonstrates AI-powered API testing integrated into a CI/CD pipelin
 
 ## 📁 Project Structure
 
+## 🤖 Keploy Integration (Planned)
+
+This project includes CI/CD setup for Keploy’s API test automation.
+
+However, due to time constraints and tool issues:
+- Keploy CLI could not be installed
+- VS Code extension didn’t record tests as expected
+
+But the `.github/workflows/ci.yml` file is ready with Keploy setup, and we plan to complete test-suite integration soon.
